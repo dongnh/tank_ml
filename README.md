@@ -3,4 +3,4 @@ based on .GEARS Tank project.
 
 [How to use]
 
-1. To launch tank webapp, simply click on this link: https://github.com/dongnh/tank_ml
+1. To launch tank webapp, simply click on this link: https://dongnh.github.io/tank_ml/
