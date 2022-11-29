@@ -1,6 +1,4 @@
-# Tank Battle OpenAI Gym Environment 
-based on .GEARS Tank project.
+### Tank Battle OpenAI (discontinued)
 
-[How to use]
-
-1. To launch tank webapp, simply click on this link: https://dongnh.github.io/tank_ml/
+I used to share the training environment, the project was cancelled.
+To launch tank webapp, simply click on this link: https://dongnh.github.io/tank_ml/
